@@ -1,0 +1,61 @@
+{
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.cache",
+		"*.dat",
+		"*.ics"
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"detect_indentation": false,
+	"drag_text": false,
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		"coverage",
+		"script",
+		"log",
+		".git",
+		".yardoc"
+	],
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"word_wrap": false
+}

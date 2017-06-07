@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Case Conversion",
+		"Fix Mac Path",
+		"Git",
+		"GitGutter",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-annotations"
+	]
+}
