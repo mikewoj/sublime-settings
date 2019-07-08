@@ -36,6 +36,7 @@
 		"no_round"
 	],
 	"font_size": 12,
+	"git_gutter_show_line_annotation": false,
 	"ignored_packages":
 	[
 		"Vintage"
