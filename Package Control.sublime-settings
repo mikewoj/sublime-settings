@@ -14,6 +14,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"SublimeLinter",
-		"SublimeLinter-annotations"
+		"SublimeLinter-annotations",
+		"Syntax Highlighting for Sass"
 	]
 }
