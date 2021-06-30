@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Case Conversion",
 		"Fix Mac Path",
 		"Git",
@@ -16,5 +17,5 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"Syntax Highlighting for Sass"
-	]
+	],
 }
