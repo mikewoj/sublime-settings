@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+shift+r"], "command": "reindent" },
+  { "keys": ["super+shift+m"],  "command": "alignment" }
+]
