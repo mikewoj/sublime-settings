@@ -16,6 +16,7 @@
 		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"Syntax Highlighting for Sass"
+		"SublimeLinter-rubocop",
+		"Syntax Highlighting for Sass",
 	],
 }
